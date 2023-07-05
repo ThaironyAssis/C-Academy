@@ -1,2 +1,2 @@
-# C-Academy
-CA-Junior
+# Tragetoria-Cubos Academy
+Meu primeiro repo.
